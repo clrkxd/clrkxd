@@ -1,4 +1,4 @@
-<!-- # Hi, I'm Clark 🐢
+# Hi, I'm Clark 🐢
 
 ### 💻 BSIT Student | Java Developer | Web Developer
 
@@ -19,7 +19,7 @@
 [![](https://komarev.com/ghpvc/?username=clrkxd&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- 
  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=clrkxd&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=%F0%9F%92%BB%20BSIT%20Student%20%7C%20Java%20Developer%20%7C%20Game%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="clrkxd banner"/>
 </div>
@@ -97,3 +97,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
+-->
