@@ -1,6 +1,6 @@
 # Hi, I'm Clark 🐢
 
-### 💻 BSIT Student | Java Developer | Web Developer
+### 💻 BSIT Student | Java Developer | Game Developer
 
 🧠 BSIT student at OMSC - Sablayan Campus <br>
 💻 Passionate about software development, game development, and web technologies. <br>
