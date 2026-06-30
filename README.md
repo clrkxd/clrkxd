@@ -2,7 +2,6 @@
 
 ### 💻 BSIT Student | Java Developer | Game Developer
 
-🧠 BSIT student at OMSC - Sablayan Campus <br>
 💻 Passionate about software development, game development, and web technologies. <br>
 📚 Always learning and improving my programming skills. <br>
 ⚙ Follow my journey on [X](https://x.com/clxrkxv) <br>
