@@ -1,9 +1,8 @@
 # Hi, I'm Clark 🐢
 
 ### 💻 IT Student | Java Developer | Game Developer 
-##📚 STILL LEARNING!
-<br>
-<br>
+`still learning!`
+<br> <br>
 💻 Passionate about software development, game development, and web technologies. <br>
 📚 Always learning and improving my programming skills. <br>
 ⚙ Follow my journey on [X](https://x.com/clxrkxv) <br>
