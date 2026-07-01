@@ -1,6 +1,7 @@
 # Hi, I'm Clark 🐢
 
-### 💻 BSIT Student | Java Developer | Game Developer
+### 💻 IT Student | Java Developer | Game Developer 
+## 📚 STILL LEARNING!
 
 💻 Passionate about software development, game development, and web technologies. <br>
 📚 Always learning and improving my programming skills. <br>
