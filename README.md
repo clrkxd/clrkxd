@@ -17,6 +17,8 @@
   > A simple 2D chess built using Java Swing.
 - [**Tile-Map-Editor**](https://github.com/clrkxd/tile-map-editor)
   > A simple and lightweight tile map editor for 2D top-down game development.
+- [**Landing Page**](https://github.com/clrkxd/edenfall_landing-page)
+  > A landing web page that showcases a game.
 
 
 ## 💻 Tech Stack:
