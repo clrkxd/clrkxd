@@ -1,13 +1,10 @@
-# Hi, I'm Clark 🐢
-
-### 💻 IT Student | Java Developer | Game Developer 
-
-<br> <br>
+`IT Student` | `Java Developer` | `Game Developer` 
+<br>
 💻 Passionate about software development, game development, and web technologies. <br>
 📚 Always learning and improving my programming skills. <br>
 ⚙ Follow my journey on [X](https://x.com/clxrkxv) <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/clrkxd) 
 
 # 💻 Tech Stack:
@@ -17,8 +14,10 @@
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.shion.dev/api?username=clrkxd&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=clrkxd&theme=merko&hide_border=false)<br/>
+-->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=clrkxd&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
