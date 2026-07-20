@@ -1,4 +1,4 @@
-# Clark 
+# - Clark 
 `IT Student` | `Java Developer` | `Game Developer` 
 <br><br>
 💻 Passionate about software development, game development, and web technologies. <br>
