@@ -7,7 +7,7 @@
 ⚙ Follow my DevLog on [X](https://x.com/clxrkxv) <br>
 
 ## 🚧 Currently Working On
-- [**Edenfall**](private)
+- [**TRN·XYL·NR**](private)
   > A 2D RPG game packed with adventures built purely on Java code.
 
 ## 🌟 Featured Projects
