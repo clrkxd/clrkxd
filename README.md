@@ -1,13 +1,28 @@
-# -- Clark --
-`IT Student` | `Java Developer` | `Game Developer` 
-<br><br>
+<!--# -- Clark -->
+
+<p align="center">
+  <a href="https://github.com/clrkxd">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=--%20Clark%20--" alt="-- Clark --" />
+    
+  </a>
+</p> 
+<hr>
+<p align="center">
+  <code>IT Student</code> • <code>Java Developer</code> • <code>Game Developer</code>
+</p>
+<!--`IT Student` | `Java Developer` | `Game Developer` -->
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Game%20Developer;IT%20Student" alt="Typing headlines" />
+</p> -->
+
 💻 Passionate about software development, game development, and web technologies. <br>
 🛠 Building simple but functional projects. <br>
 📚 Always learning and improving my programming skills. <br>
 ⚙ Follow my DevLog on [X](https://x.com/clxrkxv) <br>
 
 ## 🚧 Currently Working On
-- [**TRN·XYL·NR**](private)
+- [**TRN·XYL·NR**](private) 
   > A 2D RPG game packed with adventures built purely on Java code.
 
 ## 🌟 Featured Projects
@@ -31,6 +46,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=clrkxd&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://x.com/clxrkxv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/clxrkxv-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:clarkiemelitar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 <!-- 
  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=clrkxd&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=%F0%9F%92%BB%20BSIT%20Student%20%7C%20Java%20Developer%20%7C%20Game%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="clrkxd banner"/>
