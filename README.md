@@ -20,7 +20,7 @@
 ⚙ Follow my DevLog on [X](https://x.com/clxrkxv) <br>
 
 ## 🚧 Currently Working On
-- [**TRN·XYL·NR**](https://github,com/clrkxd/trnxylnr) 
+- [**TRN·XYL·NR**](https://github,com/clrkxd/private) 
   > A 2D RPG game packed with adventures built purely on Java code.
 
 ## 🌟 Featured Projects
