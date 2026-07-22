@@ -1,10 +1,7 @@
 <!--# -- Clark -->
 
 <p align="center">
-  <a href="https://github.com/clrkxd">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=--%20Clark%20--" alt="-- Clark --" />
-    
-  </a>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=Clark" alt="-- Clark --" />
 </p> 
 <hr>
 <p align="center">
