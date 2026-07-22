@@ -4,9 +4,10 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=Clark" alt="-- Clark --" />
 </p> 
 <hr>
-<p align="center">
+
+<h2 align="center">
   <code>IT Student</code> • <code>Java Developer</code> • <code>Game Developer</code>
-</p>
+</h2>
 <!--`IT Student` | `Java Developer` | `Game Developer` -->
 <!--
 <p align="center">
