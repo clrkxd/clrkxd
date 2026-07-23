@@ -22,12 +22,12 @@
 ## 🚧 Currently Working On
 - [**TRN·XYL·NR**](https://github,com/clrkxd/private) 
   > A 2D RPG game packed with adventures built purely on Java code.
+- [**2D-Chess**](https://github.com/clrkxd/2d-chess-java)
+  > A simple 2D chess built using Java Swing.
 
 ## 🌟 Featured Projects
 - [**Synthixel**](https://github.com/clrkxd/synthixel)
   > An open-source pixel art piano application built using Java Swing.
-- [**2D-Chess**](https://github.com/clrkxd/2d-chess-java)
-  > A simple 2D chess built using Java Swing.
 - [**Tile-Map-Editor**](https://github.com/clrkxd/tile-map-editor)
   > A simple and lightweight tile map editor for 2D top-down game development.
 - [**Landing Page**](https://github.com/clrkxd/edenfall_landing-page)
