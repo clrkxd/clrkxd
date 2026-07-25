@@ -5,9 +5,9 @@
 </p> 
 <hr>
 
-<h2 align="center">
+<h3 align="center">
   <code>IT Student</code> • <code>Java Developer</code> • <code>Game Developer</code>
-</h2>
+</h3>
 <!--`IT Student` | `Java Developer` | `Game Developer` -->
 <!--
 <p align="center">
