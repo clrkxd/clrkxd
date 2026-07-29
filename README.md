@@ -18,13 +18,13 @@
 🛠 Building simple but functional projects. <br>
 📚 Always learning and improving my programming skills. <br>
 ⚙ Follow my DevLog on [X](https://x.com/clxrkxv) <br>
-
+<!--
 ## 🚧 Currently Working On
 - [**TRN·XYL·NR**](https://github.com/clrkxd/private) 
   > A 2D RPG game packed with adventures built purely on Java code.
 - [**2D-Chess**](https://github.com/clrkxd/2d-chess-java)
   > A simple 2D chess built using Java Swing.
-
+-->
 ## 🌟 Featured Projects
 - [**Synthixel**](https://github.com/clrkxd/synthixel)
   > An open-source pixel art piano application built using Java Swing.
