@@ -17,7 +17,7 @@
 💻 Passionate about software development, game development, and web technologies. <br>
 🛠 Building simple but functional projects. <br>
 📚 Always learning and improving my programming skills. <br>
-⚙ Follow my DevLog on [X](https://x.com/clxrkxv) <br>
+<!-- ⚙ Follow my DevLog on [X](https://x.com/clxrkxv) <br> 
 <!--
 ## 🚧 Currently Working On
 - [**TRN·XYL·NR**](https://github.com/clrkxd/private) 
