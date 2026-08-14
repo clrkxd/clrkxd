@@ -5,9 +5,9 @@
 </p> 
 <hr>
 
-<h3 align="center">
+<p align="center">
   <code>IT Student</code> • <code>Java Developer</code> • <code>Game Developer</code>
-</h3>
+</p>
 <!--`IT Student` | `Java Developer` | `Game Developer` -->
 <!--
 <p align="center">
@@ -28,10 +28,14 @@
 ## 🌟 Featured Projects
 - [**Synthixel**](https://github.com/clrkxd/synthixel)
   > An open-source pixel art piano application built using Java Swing.
-<!--- [**Tile-Map-Editor**](https://github.com/clrkxd/tile-map-editor)
-  > A simple and lightweight tile map editor for 2D top-down game development.-->
-- [**Landing Page**](https://github.com/clrkxd/edenfall_landing-page)
-  > A landing web page that showcases a game.
+- [**TRN·XYL·NR**](https://github.com/clrkxd/private) 
+  > A 2D RPG game packed with adventures built purely on Java code.
+- [**ches-sd**](https://github.com/clrkxd/2d-chess-java)
+  > A simple 2D chess with pieces are SD characters built using Java Swing.
+-[**Tile-Map-Editor**](https://github.com/clrkxd/tile-map-editor)
+  > A simple and lightweight tile map editor for 2D top-down game development.
+- [**Game Landing Web Page**](https://github.com/clrkxd/edenfall_landing-page)
+  > A landing web page front end that showcases a game.
 
 
 ## 💻 Tech Stack:
