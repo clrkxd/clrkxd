@@ -27,7 +27,7 @@
 -->
 ## 🌟 Featured Projects
 - [**Synthixel**](https://github.com/clrkxd/synthixel) `open-source`
-  > An open-source pixel art piano application built using Java Swing.
+  > An open-source pixel art piano application built from scratch.
 - [**TRN·XYL·NR**](https://github.com/clrkxd/private) `private`
   > A 2D RPG game packed with adventures built purely on Java code.
 - [**ches-sd**](https://github.com/clrkxd/ches-sd)
