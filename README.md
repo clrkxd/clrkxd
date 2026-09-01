@@ -17,6 +17,7 @@
 💻 Passionate about software development, game development, and web technologies. <br>
 🛠 Building simple but functional projects. <br>
 📚 Always learning and improving my programming skills. <br>
+👨‍💻 I'm just a casual game developer.
 <!-- ⚙ Follow my DevLog on [X](https://x.com/clxrkxv) <br> 
 <!--
 ## 🚧 Currently Working On
