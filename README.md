@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  <code>IT Student</code> • <code>Java Developer</code> • <code>Game Developer</code>
+  <code>IT Student</code> • <code>Game Developer</code>
 </p>
 <!--`IT Student` | `Java Developer` | `Game Developer` -->
 <!--
