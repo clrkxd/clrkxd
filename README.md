@@ -1,13 +1,13 @@
 <!--# -- Clark -->
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=Clark" alt="-- Clark --" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=John%20Clark" alt="-- Clark --" />
 </p> 
 <hr>
 
-<p align="center">
+<h4 align="center">
   <code>IT Student</code> • <code>Game Developer</code>
-</p>
+</h4>
 <!--`IT Student` | `Java Developer` | `Game Developer` -->
 <!--
 <p align="center">
