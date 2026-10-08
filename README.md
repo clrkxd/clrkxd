@@ -1,7 +1,7 @@
 <!--# -- Clark -->
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=John%20Clark" alt="-- Clark --" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=Clark" alt="-- Clark --" />
 </p> 
 <hr>
 
