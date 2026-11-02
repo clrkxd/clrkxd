@@ -35,8 +35,8 @@
   > A simple 2D chess with pieces are SD characters built using Java Swing.
 - [**Tile-Map-Editor**](https://github.com/clrkxd/tile-map-editor) 
   > A simple and lightweight tile map editor for 2D top-down game development.
-- [**Game Landing Web Page**](https://github.com/clrkxd/edenfall_landing-page)
-  > A landing web page front end that showcases a game.
+<!--- [**Game Landing Web Page**](https://github.com/clrkxd/edenfall_landing-page)
+  > A landing web page front end that showcases a game.-->
 
 
 ## 💻 Tech Stack:
