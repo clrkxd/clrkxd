@@ -14,6 +14,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Game%20Developer;IT%20Student" alt="Typing headlines" />
 </p> -->
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=AHAHAH%20ayaw%20ko%20na%20magcode%20T_T..&author=Clark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 💻 Passionate about software development, game development, and web technologies. <br>
 🛠 Building simple but functional projects. <br>
 📚 Always learning and improving my programming skills. <br>
